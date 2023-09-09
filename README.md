@@ -21,9 +21,10 @@ sck    52
 mo     51     
 mi     50    
 
-=======================================================================
-  The following directive defines a NRF24L01 module in the myHAL.cpp file.
-=======================================================================
+==========================
+  The following directive defines a 
+  NRF24L01 module in the myHAL.cpp file.
+==========================
    The parameters are: 
      First Vpin=400
      Number of VPINs=8 (numbered 400 - 407)
