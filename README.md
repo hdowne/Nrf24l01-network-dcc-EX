@@ -1,7 +1,7 @@
 THIS IS WORK IN PROGRESS
 
 # Nrf24l01-network-dcc-EX
-Nrf24l01 network library driver for dcc++ ex
+# Nrf24l01 network library driver for dcc++ ex
 
 With this driver you can connect the Nrf24l01 to the latest version of dcc++ ex. 
 Add a couple of lines in the myHal.cpp file.
@@ -15,7 +15,7 @@ Add a couple of lines in the myHal.cpp file.
 
   see https://nrf24.github.io/RF24Network/ for how to configure nodes.
 
-Also upload Remote_node.ino to second arduino after changiing parameters in file for
+# Also upload Remote_node.ino to second arduino after changiing parameters in file for
 
 spi pin (if needed)
 
