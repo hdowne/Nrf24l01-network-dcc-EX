@@ -16,11 +16,15 @@ Add a couple of lines in the myHal.cpp file.
   see https://nrf24.github.io/RF24Network/ for how to configure nodes.
 
 Also upload Remote_node.ino to second arduino after changiing parameters in file for
+
 USER parameters
+
 spi pin (if needed)
 
 int firstVpin=400;   // FIRST PIN OF THIS NODE
+
 int numbpins = 8;
+
 const uint16_t this_node = 01; 
 
 
