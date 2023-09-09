@@ -42,9 +42,9 @@ mi         12
 //***************************************
 // USER PARAMETRICS
 
- int firstVpin=410;   // FIRST PIN OF THIS NODE
+ int firstVpin=400;   // FIRST PIN OF THIS NODE
 int numbpins = 8;
-const uint16_t this_node = 011; 
+const uint16_t this_node = 01; 
 //********************************************
 
 
