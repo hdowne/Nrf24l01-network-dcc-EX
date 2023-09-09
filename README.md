@@ -1,5 +1,7 @@
 THIS IS WORK IN PROGRESS
 
+Any problems, bugs or suggestions please email me at hdowne@yahoo.ca 
+
 # Nrf24l01-network-dcc-EX
 # Nrf24l01 network library driver for dcc++ ex
 
