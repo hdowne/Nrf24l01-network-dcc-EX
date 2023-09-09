@@ -3,7 +3,8 @@ THIS IS WORK IN PROGRESS
 # Nrf24l01-network-dcc-EX
 Nrf24l01 network library driver for dcc++ ex
 
-With this driver you can connect the Nrf24l01 to the latest version of dcc++ ex. Add a couple of line in the myHal.cpp file.
+With this driver you can connect the Nrf24l01 to the latest version of dcc++ ex. 
+Add a couple of lines in the myHal.cpp file.
 
 
    require RF24Network and RF24 library from 
