@@ -17,9 +17,9 @@ Add a couple of lines in the myHal.cpp file.
 
 Also upload Remote_node.ino to second arduino after changiing parameters in file for
 
-USER parameters
-
 spi pin (if needed)
+
+USER parameters
 
 int firstVpin=400;   // FIRST PIN OF THIS NODE
 
@@ -29,6 +29,7 @@ const uint16_t this_node = 01;
 
 
 NRF24L01 Wired as follows
+for Arduino Mega
 
 ce/cs  48       
 csn    49      
