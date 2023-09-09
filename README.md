@@ -8,7 +8,9 @@ Add a couple of lines in the myHal.cpp file.
 
 
    require RF24Network and RF24 library from 
+   
    https://github.com/nRF24/RF24
+   
    https://github.com/nRF24/RF24Network            
 
   see https://nrf24.github.io/RF24Network/ for how to configure nodes.
@@ -27,6 +29,7 @@ mi     50
   The following directive defines a NRF24L01 module in the myHAL.cpp file.
 
 ==========================
+
    The parameters are: 
      First Vpin=400
      Number of VPINs=8 (numbered 400 - 407)
