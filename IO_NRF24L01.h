@@ -25,6 +25,8 @@
 
   see https://nrf24.github.io/RF24Network/ for how to configure nodes.
 
+WORKS WITH DCC EX VER 4.1.5
+WORKS WITH DCC EX VER 5.0.2
 
 NRF24L01 Wired as follows
 
