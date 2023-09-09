@@ -15,7 +15,7 @@ Add a couple of lines in the myHal.cpp file.
 
   see https://nrf24.github.io/RF24Network/ for how to configure nodes.
 
-# Also upload Remote_node.ino to second arduino after changiing parameters in file for
+Also upload Remote_node.ino to second arduino after changiing parameters in file for
 
 spi pin (if needed)
 
