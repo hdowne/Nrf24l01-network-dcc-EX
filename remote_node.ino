@@ -92,7 +92,7 @@ Servo myservo;
       int _npins; 
 
 void setup(void) {
-  Serial.begin(115200);
+ // Serial.begin(115200);
 
    if (!radio.begin()) {
     Serial.println(F("Radio hardware not responding!"));
