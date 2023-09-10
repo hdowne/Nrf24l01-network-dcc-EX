@@ -58,3 +58,8 @@ mi     50
   
     NRF24L01::create(400, 8, 01);  //  child node
     NRF24L01::create(410, 8, 011);  // grandchild node
+
+Future upgrade
+--------------
+
+Add addition of mcp23017 and pca9685 to remote node to allow more i/o pins and more servo controls.
